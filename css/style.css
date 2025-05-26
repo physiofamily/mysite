@@ -904,4 +904,18 @@ a:focus {
 .footer_section .footer-info p a {
   color: inherit;
 }
+body{
+  position: relative;
+}
+
+.whatsapp-btn{
+  /* height: 60px; */
+  width: 100px;
+  /* border: 1px solid black; */
+  position: fixed;
+  bottom: 5%;
+  right: 3%;
+  z-index: 1;
+  cursor: pointer;
+}
 /*# sourceMappingURL=style.css.map */
