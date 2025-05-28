@@ -1,0 +1,11 @@
+@media (max-width: 780px){
+    .m-1{
+        flex-direction: column;
+    }
+    .img-1{
+        margin-bottom: -70px;
+    }
+    .details{
+        width: 70% !important;
+    }
+}
